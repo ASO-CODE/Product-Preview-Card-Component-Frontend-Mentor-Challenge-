@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ASO-CODE/Product-Preview-Card-Component-Frontend-Mentor-Challenge-#links)
-- Live Site URL: [Add live site URL here](https://asocode-product-preview-solution.netlify.app/)
+- Solution URL: [https://github.com/ASO-CODE/Product-Preview-Card-Component-Frontend-Mentor-Challenge-#links](https://github.com/ASO-CODE/Product-Preview-Card-Component-Frontend-Mentor-Challenge-#links)
+- Live Site URL: [https://asocode-product-preview-solution.netlify.app/](https://asocode-product-preview-solution.netlify.app/)
 
 ## My process
 
@@ -43,8 +43,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ASO-CODE](https://www.frontendmentor.io/profile/ASO-CODE)
+- Twitter - [@SAwanle](https://www.twitter.com/SAwanle)
 
 ## Acknowledgments
 
